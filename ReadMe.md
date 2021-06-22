@@ -7,7 +7,7 @@ Source code, datasets and experimental results for submission "_Deep Entity Matc
 * Dataset and pre-trained word embeddings: please use `download.sh` to download
 
 ## Datasets (from [DeepMatcher](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md#preprocessed-data))
-We apply DAEM on seven benchmark datasets.
+We evaluate DAEM on seven benchmark datasets.
 
 ## Project structure
 <table>
