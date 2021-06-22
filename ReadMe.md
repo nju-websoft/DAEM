@@ -1,10 +1,10 @@
 # DAEM
-Source code, datasets and gold standard for paper "_Deep Entity Matching with Adversarial Active Learning_".
+Source code, datasets and experimental results for submission "_Deep Entity Matching with Adversarial Active Learning_".
 
 ## Dependencies
 * Python 3.8.5
 * Python libraries: see requirements.txt
-* Dataset and pre-trained word embeddings: please use `download.sh` to download them.
+* Dataset and pre-trained word embeddings: please use `download.sh` to download
 
 ## Datasets (from [DeepMatcher](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md#preprocessed-data))
 We apply DAEM on seven benchmark datasets.
