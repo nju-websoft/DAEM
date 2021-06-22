@@ -15,24 +15,24 @@ We apply DAEM on seven benchmark datasets.
         <th>File</th><th>Description</th>
     </tr>
     <tr>
-        <td>daem</td><td>Codes of DAEM</td>
+        <td>daem</td><td>Code of DAEM</td>
     </tr>
     <tr>
-        <td>scripts/entity_matching.py</td><td>Codes to reproduce the deep entity matching experiment and the ablation study of the matcher.</td>
+        <td>scripts/entity_matching.py</td><td>Code to reproduce the deep entity matching experiment and ablation study</td>
     </tr>
     <tr>
-        <td>scripts/adversarial_active_learning.py</td><td>Codes to reproduce the deep active entity matching experiment.</td>
+        <td>scripts/adversarial_active_learning.py</td><td>Code to reproduce the active entity matching experiment</td>
     </tr>
     <tr>
-        <td>scripts/inter_attribute_completion.py</td><td>Codes to reproduce the inter-attribute completion experiment.</td>
+        <td>scripts/inter_attribute_completion.py</td><td>Code to reproduce the inter-attribute completion experiment</td>
     </tr>
     <tr>
-        <td>scripts/adversarial_learning.py</td><td>Codes to reproduce the adversarial learning experiment.</td>
+        <td>scripts/adversarial_learning.py</td><td>Code to reproduce the adversarial learning experiment</td>
     </tr>
     <tr>
-        <td>scripts/entity_signature.py</td><td>Codes to reproduce the entity signature experiment.</td>
+        <td>scripts/entity_signature.py</td><td>Code to reproduce the entity signature experiment</td>
     </tr>
     <tr>
-        <td>scripts/dynamic_blocking.py</td><td>Codes to reproduce the dynamic blocking experiment.</td>
+        <td>scripts/dynamic_blocking.py</td><td>Code to reproduce the dynamic blocking experiment</td>
     </tr>
 </table>
