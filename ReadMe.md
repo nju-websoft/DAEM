@@ -9,7 +9,7 @@ Source code, datasets and experimental results for submission "_Deep Entity Matc
 ## Datasets (from [DeepMatcher](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md#preprocessed-data))
 We apply DAEM on seven benchmark datasets.
 
-## Project Structure
+## Project structure
 <table>
     <tr>
         <th>File</th><th>Description</th>
