@@ -21,6 +21,9 @@ We apply DAEM on seven benchmark datasets.
         <td>scripts/entity_matching.py</td><td>Codes to reproduce the deep entity matching experiment and the ablation study of the matcher.</td>
     </tr>
     <tr>
+        <td>scripts/adversarial_active_learning.py</td><td>Codes to reproduce the deep active entity matching experiment.</td>
+    </tr>
+    <tr>
         <td>scripts/inter_attribute_completion.py</td><td>Codes to reproduce the inter-attribute completion experiment.</td>
     </tr>
     <tr>
