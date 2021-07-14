@@ -2,7 +2,7 @@
 Source code, datasets and experimental results for submission "_Deep Entity Matching with Adversarial Active Learning_".
 
 ## Dependencies
-* Python 3.8.5
+* Python 3.8
 * Python libraries: see requirements.txt
 * Dataset and pre-trained word embeddings: please use `download.sh` to download
 
